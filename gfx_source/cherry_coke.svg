@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.46"
+   sodipodi:docname="cherry_coke.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   inkscape:export-filename="/home/halcyon/Desktop/src/DS/template_project/gfx_source/cherry_coke.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs4">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective10" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     gridtolerance="10000"
+     guidetolerance="10"
+     objecttolerance="10"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="11.2"
+     inkscape:cx="236.57484"
+     inkscape:cy="808.98987"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1356"
+     inkscape:window-height="775"
+     inkscape:window-x="0"
+     inkscape:window-y="21" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="opacity:1;fill:#000000;fill-opacity:1"
+       d="M 224.22497,234.50458 L 224.22497,266.50458 L 256.22497,266.50458 L 256.22497,234.50458 L 224.22497,234.50458 z"
+       id="rect2383" />
+    <rect
+       style="opacity:1;fill:#fe0000;fill-opacity:1;stroke:#ffffff;stroke-width:1.01481354000000001;stroke-opacity:1"
+       id="rect3157"
+       width="18.673014"
+       height="29.784679"
+       x="230.95354"
+       y="235.66124" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.50000000000000000px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Arial Black;-inkscape-font-specification:'Arial Black, Bold'"
+       x="231.95627"
+       y="240.70461"
+       id="text3159"><tspan
+         sodipodi:role="line"
+         id="tspan3161"
+         x="231.95627"
+         y="240.70461">cherry</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.50000000000000000px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Arial Black;-inkscape-font-specification:'Arial Black, Bold'"
+       x="236.93201"
+       y="256.74146"
+       id="text3163"><tspan
+         sodipodi:role="line"
+         id="tspan3165"
+         x="236.93201"
+         y="256.74146">coke</tspan><tspan
+         sodipodi:role="line"
+         x="236.93201"
+         y="262.36646"
+         id="tspan3167" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:1px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+       x="231.67497"
+       y="259.56107"
+       id="text3199"><tspan
+         sodipodi:role="line"
+         id="tspan3201"
+         x="231.67497"
+         y="259.56107">lorem ipsum dolor</tspan><tspan
+         sodipodi:role="line"
+         x="231.67497"
+         y="260.81107"
+         id="tspan3203">sit armet</tspan><tspan
+         sodipodi:role="line"
+         x="231.67497"
+         y="262.06107"
+         id="tspan3205">consecurot</tspan><tspan
+         sodipodi:role="line"
+         x="231.67497"
+         y="263.31107"
+         id="tspan3207">adispiscing</tspan><tspan
+         sodipodi:role="line"
+         x="231.67497"
+         y="264.56107"
+         id="tspan3209">blah blah bla bluuuuuh blah</tspan></text>
+    <path
+       sodipodi:type="arc"
+       style="opacity:1;fill:#ff3535;fill-opacity:1;stroke:#ffffff;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path3211"
+       sodipodi:cx="237.36607"
+       sodipodi:cy="251.20146"
+       sodipodi:rx="2.5446429"
+       sodipodi:ry="2.3214285"
+       d="M 239.91072,251.20146 A 2.5446429,2.3214285 0 1 1 234.82143,251.20146 A 2.5446429,2.3214285 0 1 1 239.91072,251.20146 z"
+       transform="translate(-0.9821428,-0.3571428)" />
+    <path
+       sodipodi:type="arc"
+       style="opacity:1;fill:#ff3535;fill-opacity:1;stroke:#ffffff;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path3213"
+       sodipodi:cx="237.36607"
+       sodipodi:cy="251.20146"
+       sodipodi:rx="2.5446429"
+       sodipodi:ry="2.3214285"
+       d="M 239.91072,251.20146 A 2.5446429,2.3214285 0 1 1 234.82143,251.20146 A 2.5446429,2.3214285 0 1 1 239.91072,251.20146 z"
+       transform="translate(5.4910699,-2.1428526)" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 241.60714,247.00504 L 236.69643,243.79075"
+       id="path3215" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 236.78571,248.52289 C 236.60413,248.16393 236.96429,247.21016 236.96429,246.55861 C 236.96429,245.36746 236.88918,244.16708 236.60714,242.89789 C 236.57804,242.76694 236.62539,243.59588 236.69643,243.88004 C 236.72246,243.98414 236.81548,244.05861 236.875,244.14789"
+       id="path3217" />
+  </g>
+</svg>

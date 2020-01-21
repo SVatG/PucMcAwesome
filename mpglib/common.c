@@ -167,7 +167,7 @@ int decode_header(struct frame *fr,unsigned long newhead)
           fr->framesize = fr->framesize + fr->padding - 4;
         break; 
       default:
-        fprintf(stderr,"Sorry, unknown layer type.\n"); 
+        fprintf(stderr,"Sorry, unknown layer type.\n");
         return (0);
     }
     return 1;
